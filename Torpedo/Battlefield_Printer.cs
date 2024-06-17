@@ -9,7 +9,7 @@ namespace Torpedo
 {
     internal class Battlefield_Printer
     {
-        
+        public static int needed_Ship_Num;
         public static void Print_BattleField(char[] letter_Fields, char[,] battlefield)
         {
             bool end_Game = false;
@@ -37,10 +37,11 @@ namespace Torpedo
                 Console.WriteLine();
 
             }
-            if (counter == 5)
+            if (counter == needed_Ship_Num)
             {
-                Console.WriteLine("Battle End");
+                
                 Game_Manager.end_Game = true;
+                Console.ForegroundColor= ConsoleColor.Red;
 
             }
             else

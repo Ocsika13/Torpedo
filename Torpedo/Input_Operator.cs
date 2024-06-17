@@ -46,34 +46,46 @@ namespace Torpedo
                 Game_Manager.battlefield_CPU[row, col] = 'X';
                 Game_Manager.battlefield_CPU_Show[row, col] = 'X';
             }
+            else if (Game_Manager.battlefield_CPU[row, col] == 'O')
+            {
+                Console.WriteLine("You already used that coordinate. Try again");
+                Thread.Sleep(2000);
+                goto back;
+            }
+            else if (Game_Manager.battlefield_CPU[row, col] == 'X')
+            {
+                Console.WriteLine("You already used that coordinate. Try again");
+                Thread.Sleep(2000);
+                goto back;
+            }
 
 
         }
         public static void Get_Input_PlayerTwo()
         {
             Random rnd = new Random();
+        //Console.WriteLine("Please give a coordinate");
+        //user_Input = Console.ReadLine().ToUpper();
+        //while (user_Input.Length != 2)
+        //{
+        //    Console.WriteLine("Not knowning coordinate try again");
+        //    user_Input = Console.ReadLine().ToUpper();
+
+        //}
+        //Console.WriteLine("Coordinate lenght is good");
+        //Console.WriteLine("Input is: " + user_Input);
+        //char[] inputs = user_Input.ToCharArray();
+
+        //if (!char.IsNumber(inputs[1]) || !char.IsAsciiLetter(inputs[0]))
+        //{
+        //    Console.WriteLine("Wrong coordinate");
+        //    goto back;
+        //}
+
+        //int row = inputs[1] - '0';
+        //int col = letter_Space_ToIndex[inputs[0]];
+        //random koordináták kezelése CPU által
         back:
-            //Console.WriteLine("Please give a coordinate");
-            //user_Input = Console.ReadLine().ToUpper();
-            //while (user_Input.Length != 2)
-            //{
-            //    Console.WriteLine("Not knowning coordinate try again");
-            //    user_Input = Console.ReadLine().ToUpper();
-
-            //}
-            //Console.WriteLine("Coordinate lenght is good");
-            //Console.WriteLine("Input is: " + user_Input);
-            //char[] inputs = user_Input.ToCharArray();
-
-            //if (!char.IsNumber(inputs[1]) || !char.IsAsciiLetter(inputs[0]))
-            //{
-            //    Console.WriteLine("Wrong coordinate");
-            //    goto back;
-            //}
-
-            //int row = inputs[1] - '0';
-            //int col = letter_Space_ToIndex[inputs[0]];
-            //random koordináták kezelése CPU által
             int row_CPU = rnd.Next(0, 10);
             int col_CPU = rnd.Next(0, 10);
 
@@ -87,7 +99,17 @@ namespace Torpedo
             {
                 Game_Manager.battlefield_Player[row_CPU, col_CPU] = 'X';
             }
+            else if (Game_Manager.battlefield_Player[row_CPU, col_CPU] == 'O')
+            {
+                Console.WriteLine("You already used that coordinate. Try again");
+                goto back;
+            }
+            else if (Game_Manager.battlefield_Player[row_CPU, col_CPU] == 'X')
+            {
+                Console.WriteLine("You already used that coordinate. Try again");
 
+
+            }
         }
     }
 }

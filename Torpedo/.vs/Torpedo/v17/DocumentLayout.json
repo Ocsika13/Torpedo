@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\GIT\\Torpedo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\game_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:game_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\battlefield_printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:battlefield_printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\welcome_words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:welcome_words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\game_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:game_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\battlefield_printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:battlefield_printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\battlefield_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,43 +34,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 225,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Input_Operator.cs",
               "DocumentMoniker": "C:\\GIT\\Torpedo\\Input_Operator.cs",
               "RelativeDocumentMoniker": "Input_Operator.cs",
               "ToolTip": "C:\\GIT\\Torpedo\\Input_Operator.cs",
               "RelativeToolTip": "Input_Operator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T10:12:41.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Battlefield_Printer.cs",
               "DocumentMoniker": "C:\\GIT\\Torpedo\\Battlefield_Printer.cs",
               "RelativeDocumentMoniker": "Battlefield_Printer.cs",
               "ToolTip": "C:\\GIT\\Torpedo\\Battlefield_Printer.cs",
               "RelativeToolTip": "Battlefield_Printer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T09:59:33.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Game_Manager.cs",
               "DocumentMoniker": "C:\\GIT\\Torpedo\\Game_Manager.cs",
               "RelativeDocumentMoniker": "Game_Manager.cs",
               "ToolTip": "C:\\GIT\\Torpedo\\Game_Manager.cs",
               "RelativeToolTip": "Game_Manager.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwE8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T09:56:31.916Z",
               "EditorCaption": ""
@@ -85,31 +85,30 @@
               "RelativeToolTip": "Battlefield_Generator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T09:48:40.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T09:48:40.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Welcome_Words.cs",
               "DocumentMoniker": "C:\\GIT\\Torpedo\\Welcome_Words.cs",
               "RelativeDocumentMoniker": "Welcome_Words.cs",
               "ToolTip": "C:\\GIT\\Torpedo\\Welcome_Words.cs",
               "RelativeToolTip": "Welcome_Words.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T09:46:32.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GIT\\Torpedo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\GIT\\Torpedo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T07:41:28.16Z",
               "EditorCaption": ""

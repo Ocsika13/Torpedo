@@ -1,0 +1,15 @@
+C:\GIT\Torpedo\bin\Release\net8.0\win-x64\Torpedo.exe
+C:\GIT\Torpedo\bin\Release\net8.0\win-x64\Torpedo.deps.json
+C:\GIT\Torpedo\bin\Release\net8.0\win-x64\Torpedo.runtimeconfig.json
+C:\GIT\Torpedo\bin\Release\net8.0\win-x64\Torpedo.dll
+C:\GIT\Torpedo\bin\Release\net8.0\win-x64\Torpedo.pdb
+C:\GIT\Torpedo\obj\Release\net8.0\win-x64\Torpedo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Torpedo\obj\Release\net8.0\win-x64\Torpedo.AssemblyInfoInputs.cache
+C:\GIT\Torpedo\obj\Release\net8.0\win-x64\Torpedo.AssemblyInfo.cs
+C:\GIT\Torpedo\obj\Release\net8.0\win-x64\Torpedo.csproj.CoreCompileInputs.cache
+C:\GIT\Torpedo\obj\Release\net8.0\win-x64\Torpedo.sourcelink.json
+C:\GIT\Torpedo\obj\Release\net8.0\win-x64\Torpedo.dll
+C:\GIT\Torpedo\obj\Release\net8.0\win-x64\refint\Torpedo.dll
+C:\GIT\Torpedo\obj\Release\net8.0\win-x64\Torpedo.pdb
+C:\GIT\Torpedo\obj\Release\net8.0\win-x64\Torpedo.genruntimeconfig.cache
+C:\GIT\Torpedo\obj\Release\net8.0\win-x64\ref\Torpedo.dll

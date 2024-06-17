@@ -1,0 +1,2 @@
+C:\GIT\Torpedo\Published\Torpedo.exe
+C:\GIT\Torpedo\Published\Torpedo.pdb

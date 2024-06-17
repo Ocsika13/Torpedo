@@ -41,7 +41,7 @@ namespace Torpedo
         };
         public static void Game_Manager_Operator(int player_Num)
         {
-            
+
             do
             {
                 Console.WriteLine("Player Fields");
@@ -49,14 +49,35 @@ namespace Torpedo
                 Console.WriteLine();
                 Console.WriteLine("CPU/Player 2 Fields");
                 Battlefield_Printer.Print_BattleField(Letter_Fields, battlefield_CPU_Show);
+
+                
+
                 if (player_Num == 1)
                 {
+                    if (Game_Manager.end_Game == true)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.BackgroundColor = ConsoleColor.Cyan;
+                        Console.WriteLine("BATTLE END");
+                        Console.ResetColor();
+                        Thread.Sleep(1000);
+                        break;
+                    }
                     Console.WriteLine("Player 1 Turn");
                     Input_Operator.Get_Input_PlayerOne();
                     player_Num = 2;
                 }
                 else if (player_Num == 2)
                 {
+                    if (Game_Manager.end_Game == true)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.BackgroundColor = ConsoleColor.Cyan;
+                        Console.WriteLine("BATTLE END");
+                        Console.ResetColor();
+                        Thread.Sleep(1000);
+                        break;
+                    }
                     Console.WriteLine("Player 2 Turn");
                     Input_Operator.Get_Input_PlayerTwo();
                     player_Num = 1;
