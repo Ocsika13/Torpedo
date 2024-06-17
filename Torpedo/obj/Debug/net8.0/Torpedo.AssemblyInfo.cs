@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Torpedo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd7ce15ee7de5b004afa275233a66e9af446501d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3756a91a1be76d42fb74aee150031a8afad91ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Torpedo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Torpedo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
