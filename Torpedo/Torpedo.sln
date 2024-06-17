@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35005.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torpedo", "Torpedo.csproj", "{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E365B85-7206-49AD-B5DA-484E0E529125}
+	EndGlobalSection
+EndGlobal

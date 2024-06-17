@@ -1,0 +1,15 @@
+C:\GIT\Torpedo\obj\Debug\net8.0\Torpedo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Torpedo\obj\Debug\net8.0\Torpedo.AssemblyInfoInputs.cache
+C:\GIT\Torpedo\obj\Debug\net8.0\Torpedo.AssemblyInfo.cs
+C:\GIT\Torpedo\obj\Debug\net8.0\Torpedo.csproj.CoreCompileInputs.cache
+C:\GIT\Torpedo\obj\Debug\net8.0\Torpedo.sourcelink.json
+C:\GIT\Torpedo\bin\Debug\net8.0\Torpedo.exe
+C:\GIT\Torpedo\bin\Debug\net8.0\Torpedo.deps.json
+C:\GIT\Torpedo\bin\Debug\net8.0\Torpedo.runtimeconfig.json
+C:\GIT\Torpedo\bin\Debug\net8.0\Torpedo.dll
+C:\GIT\Torpedo\bin\Debug\net8.0\Torpedo.pdb
+C:\GIT\Torpedo\obj\Debug\net8.0\Torpedo.dll
+C:\GIT\Torpedo\obj\Debug\net8.0\refint\Torpedo.dll
+C:\GIT\Torpedo\obj\Debug\net8.0\Torpedo.pdb
+C:\GIT\Torpedo\obj\Debug\net8.0\Torpedo.genruntimeconfig.cache
+C:\GIT\Torpedo\obj\Debug\net8.0\ref\Torpedo.dll
