@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\GIT\\Torpedo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\main_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:main_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\welcome_words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:welcome_words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\battlefield_printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:battlefield_printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\main_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:main_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\game_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:game_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\battlefield_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:battlefield_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +27,8 @@
       "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:input_operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\battlefield_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:battlefield_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|c:\\git\\torpedo\\welcome_words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB47F9A-0DBA-4C67-8E5E-74B24772C84E}|Torpedo.csproj|solutionrelative:welcome_words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 225,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -48,52 +48,53 @@
               "RelativeDocumentMoniker": "Input_Operator.cs",
               "ToolTip": "C:\\GIT\\Torpedo\\Input_Operator.cs",
               "RelativeToolTip": "Input_Operator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAHEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T10:12:41.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Battlefield_Printer.cs",
               "DocumentMoniker": "C:\\GIT\\Torpedo\\Battlefield_Printer.cs",
               "RelativeDocumentMoniker": "Battlefield_Printer.cs",
               "ToolTip": "C:\\GIT\\Torpedo\\Battlefield_Printer.cs",
               "RelativeToolTip": "Battlefield_Printer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwFwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T09:59:33.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Main_Menu.cs",
               "DocumentMoniker": "C:\\GIT\\Torpedo\\Main_Menu.cs",
               "RelativeDocumentMoniker": "Main_Menu.cs",
               "ToolTip": "C:\\GIT\\Torpedo\\Main_Menu.cs",
               "RelativeToolTip": "Main_Menu.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T07:36:10.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Game_Manager.cs",
               "DocumentMoniker": "C:\\GIT\\Torpedo\\Game_Manager.cs",
               "RelativeDocumentMoniker": "Game_Manager.cs",
               "ToolTip": "C:\\GIT\\Torpedo\\Game_Manager.cs",
               "RelativeToolTip": "Game_Manager.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAwGMAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T09:56:31.916Z"
+              "WhenOpened": "2024-06-17T09:56:31.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Battlefield_Generator.cs",
               "DocumentMoniker": "C:\\GIT\\Torpedo\\Battlefield_Generator.cs",
               "RelativeDocumentMoniker": "Battlefield_Generator.cs",
@@ -101,17 +102,18 @@
               "RelativeToolTip": "Battlefield_Generator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T09:48:40.877Z"
+              "WhenOpened": "2024-06-17T09:48:40.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Welcome_Words.cs",
               "DocumentMoniker": "C:\\GIT\\Torpedo\\Welcome_Words.cs",
               "RelativeDocumentMoniker": "Welcome_Words.cs",
               "ToolTip": "C:\\GIT\\Torpedo\\Welcome_Words.cs",
               "RelativeToolTip": "Welcome_Words.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T09:46:32.105Z",
               "EditorCaption": ""
@@ -126,7 +128,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T07:41:28.16Z"
+              "WhenOpened": "2024-06-17T07:41:28.16Z",
+              "EditorCaption": ""
             }
           ]
         }

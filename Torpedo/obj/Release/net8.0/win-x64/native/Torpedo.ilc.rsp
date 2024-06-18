@@ -1,5 +1,6 @@
 obj\Release\net8.0\win-x64\Torpedo.dll
 -o:obj\Release\net8.0\win-x64\native\Torpedo.obj
+-r:C:\Users\ocsovszkit\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.6\runtimes\win-x64\lib\net8.0\WindowsBase.dll
 -r:C:\Users\ocsovszkit\.nuget\packages\runtime.win-x64.microsoft.dotnet.ilcompiler\8.0.6\sdk\System.Private.CoreLib.dll
 -r:C:\Users\ocsovszkit\.nuget\packages\runtime.win-x64.microsoft.dotnet.ilcompiler\8.0.6\sdk\System.Private.DisabledReflection.dll
 -r:C:\Users\ocsovszkit\.nuget\packages\runtime.win-x64.microsoft.dotnet.ilcompiler\8.0.6\sdk\System.Private.Reflection.Execution.dll

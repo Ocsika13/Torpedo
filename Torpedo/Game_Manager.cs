@@ -8,6 +8,7 @@ namespace Torpedo
 {
     internal class Game_Manager
     {
+        //legfelső betű koordináta sor
         public static char[] Letter_Fields = { ' ', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J' };
         //Játékos mezői
         public static char[,] battlefield_Player = new char[,] {{'~','~','~','~','~','~','~','~','~','~', },{'~','~','~','~','~','~','~','~','~','~', },
@@ -22,7 +23,7 @@ namespace Torpedo
                 {'~','~','~','~','~','~','~','~','~','~', },{'~','~','~','~','~','~','~','~','~','~', },{'~','~','~','~','~','~','~','~','~','~', },{'~','~','~','~','~','~','~','~','~','~', },
                 {'~','~','~','~','~','~','~','~','~','~', },{'~','~','~','~','~','~','~','~','~','~', },{'~','~','~','~','~','~','~','~','~','~', },{'~','~','~','~','~','~','~','~','~','~', } };
         public static bool end_Game = false;
-        //Hajók száma (Fél megoldás)
+
         private static int ship_Nums = 17;
         public static bool menu_Change = true;
         //Választott koordináta átalakítása
@@ -48,6 +49,7 @@ namespace Torpedo
             while (menu_Change);
             if (Main_Menu.selectes_Menu == 0)
             {
+                
                 Welcome_Words.Print_Welcome();
                 Welcome_Words.Battle_Start_Counter();
                 do
@@ -56,7 +58,7 @@ namespace Torpedo
                     Battlefield_Printer.Print_BattleField(Letter_Fields, battlefield_Player);
                     Console.WriteLine();
                     Console.WriteLine("CPU/Player 2 Fields");
-                    Battlefield_Printer.Print_BattleField(Letter_Fields, battlefield_CPU_Show);
+                    Battlefield_Printer.Print_BattleField_Visible(Letter_Fields, battlefield_CPU);
 
 
 

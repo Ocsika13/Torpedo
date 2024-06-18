@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Torpedo
 {
+    //Üdvözlő Üzenetek
     internal class Welcome_Words
     {
+        //Játék indulásnál köszöntő üzenet
         public static void Print_Welcome()
         {
             //Játék köszöntő + név megadása
@@ -20,7 +22,7 @@ namespace Torpedo
             Thread.Sleep(2000);
             Console.Clear();
         }
-
+        //játék indulásáig vissza számoló
         public static void Battle_Start_Counter()
         {
             int start_Battle_Counter = 3;
