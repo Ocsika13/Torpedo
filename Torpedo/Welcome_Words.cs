@@ -14,7 +14,7 @@ namespace Torpedo
             Console.Title = "Torpedo";
 
             Console.WriteLine(" HELLO IN TORPEDO BATTLE");
-            Console.WriteLine("How many ship you want to find for End Game");
+            Console.WriteLine("How many ship you want to find for End Game (between: 1-16)");
             string needed_Ship_Num = Console.ReadLine();
             Battlefield_Printer.needed_Ship_Num = int.Parse(needed_Ship_Num);
             Thread.Sleep(2000);

@@ -10,8 +10,7 @@
         static void Main(string[] args)
         {
             int player_Num = 1;
-            Welcome_Words.Print_Welcome();
-            Welcome_Words.Battle_Start_Counter();
+            
 
             Game_Manager.Random_Battlefield_Generator(Game_Manager.battlefield_Player);
             Game_Manager.Random_Battlefield_Generator(Game_Manager.battlefield_CPU);
