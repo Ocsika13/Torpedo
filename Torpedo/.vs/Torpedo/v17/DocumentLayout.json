@@ -74,7 +74,7 @@
               "RelativeDocumentMoniker": "Main_Menu.cs",
               "ToolTip": "C:\\GIT\\Torpedo\\Main_Menu.cs",
               "RelativeToolTip": "Main_Menu.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T07:36:10.467Z",
               "EditorCaption": ""
@@ -89,8 +89,7 @@
               "RelativeToolTip": "Game_Manager.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAAAwGMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T09:56:31.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T09:56:31.916Z"
             },
             {
               "$type": "Document",
@@ -102,8 +101,7 @@
               "RelativeToolTip": "Battlefield_Generator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T09:48:40.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T09:48:40.877Z"
             },
             {
               "$type": "Document",
@@ -128,8 +126,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T07:41:28.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T07:41:28.16Z"
             }
           ]
         }
